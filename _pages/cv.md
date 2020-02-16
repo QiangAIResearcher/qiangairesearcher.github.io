@@ -27,8 +27,8 @@ Work experience
   * Amazon 
   * Mentors: Christos Christodoulopoulos, Arpit Mittal and Muriel Foulonneau
   * Duties included: 
-    ** Designed a knowledge graph-based fact verification system, the pipeline of which includes entity recognition, neural information retrieval and Bert-based language reasoning.
-    ** Developed a Bert-based IR model, where queries and documents were represented by the pre-trained Bert model. The corpus was a Wikipedia dump containing 5.6M documents. The Approximate Nearest Neighbors library was used to accelerate retrieval. 
+    * Designed a knowledge graph-based fact verification system, the pipeline of which includes entity recognition, neural information retrieval and Bert-based language reasoning.
+    * Developed a Bert-based IR model, where queries and documents were represented by the pre-trained Bert model. The corpus was a Wikipedia dump containing 5.6M documents. The Approximate Nearest Neighbors library was used to accelerate retrieval. 
   
 Skills
 ======
