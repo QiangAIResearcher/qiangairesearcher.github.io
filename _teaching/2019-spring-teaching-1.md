@@ -8,7 +8,7 @@ date: 2019-1-12
 location: "London, United Kingdom"
 ---
 
-This course will focus on machine learning techniques relevant to NLP, and different NLP topics and tasks such as machine translation, sequence tagging, constituent and dependency parsing, information extraction, and semantics. 
+This course focuses on machine learning techniques relevant to NLP, and different NLP topics and tasks such as machine translation, sequence tagging, constituent and dependency parsing, information extraction, and semantics. 
 
 Heading 1
 ======
