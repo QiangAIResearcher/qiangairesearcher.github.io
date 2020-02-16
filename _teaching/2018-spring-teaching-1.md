@@ -8,7 +8,7 @@ date: 2018-01-12
 location: "London, United Kingdom"
 ---
 
-This course teaches theories and mathematical models of information retrieval and data mining, covering practical algorithms of textual document indexing, relevance ranking, web usage mining, text analytics, as well as their performance evaluations.
+This course covers theories and mathematical models of information retrieval and data mining, including practical algorithms of textual document indexing, relevance ranking, web usage mining, text analytics, as well as their performance evaluations.
 
 Heading 1
 ======
