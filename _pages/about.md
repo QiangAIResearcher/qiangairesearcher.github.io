@@ -15,10 +15,10 @@ I'm a PhD student in machine learning and natural languag processing under super
 My research interests lie in the areas of statistical machine learning and deep learning with applications to natuarl language. He is also also interested in multimodal data fusion and integration. Curretly he focuses on machine learning methods for automatic verification of textual facts on the web.
 
 ## Latest News
-* 22.12.2019 - Invited to serve as reviwer of ACL 2020.
+* 22.12.2019 - Invited to serve as the reviwer of ACL 2020.
 * 03.11.2019 - Received the NeurIPS 2019 Best Reviewer Award by prof. Emine Yilamz.
-* 20.09.2019 - Finished the internship in Amazon.
-* 24.06.2019 - Invited to attend the Google NIP summit in Zurich, Switzerland.
+* 20.09.2019 - Finished the 14-week summer internship in Amazon.
+* 24.06.2019 - Invited to attend the Google NLP summit in Zurich, Switzerland.
 * 19.05.2019 - Attened the Web Conference 2019 in San Francisco, USA.
 * 20.01.2019 - Two first-author research papers accepted to WWW 2019.
 
