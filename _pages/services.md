@@ -14,8 +14,7 @@ author_profile: true
 5. *WSDM* - 2018
 
 ## Journal (Invited Reviewer)
-1. IEEE Transactions on Knowledge and Data Engineering (TKDE)
-2. Information Retrieval Journal
+1. Information Retrieval Journal
 
 
 ## Workshop
