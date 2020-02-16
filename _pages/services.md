@@ -5,7 +5,7 @@ permalink: /services/
 author_profile: true
 ---
 
-## Conference (Invited Reviewer)
+## Reviewer of Conferences
 
 1. *ACL* -  2020
 2. *WWW* - 2020
@@ -13,7 +13,7 @@ author_profile: true
 4. *SIGIR* - 2019
 5. *WSDM* - 2018
 
-## Journal (Invited Reviewer)
+## Member of Journal Review Committee
 1. Information Retrieval Journal
 
 
