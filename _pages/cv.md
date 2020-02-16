@@ -11,49 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science, University College London, 2020 (expected)
+* M.S. in Electrical Engineering, Chinese Academy of Sciences, 2017
+* B.S. in Internet of Things, Shandong University, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2020 (upcoming): Research Scientist Intern
+  * Facebook
+  * Supervisor: Fabrizio Silvestris, Vassilis Plachourasu
+  * Duties included: TBD
+  
+* Summer 2019: Research Scientist Intern
+  * Amazon 
+  * Mentors: Christos Christodoulopoulos, Arpit Mittal and Muriel Foulonneau
+  * Duties included: 
+    ** Designed a knowledge graph-based fact verification system, the pipeline of which includes entity recognition, neural information retrieval and Bert-based language reasoning.
+    ** Developed a Bert-based IR model, where queries and documents were represented by the pre-trained Bert model. The corpus was a Wikipedia dump containing 5.6M documents. The Approximate Nearest Neighbors library was used to accelerate retrieval. 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Programming
+  * Script: Python, Java, Scala, LATEX
+  * Framework: PyTorch, Tensorflow, Spark
+* Language
+  * English (advanced)
+  * Mandarin (native)
