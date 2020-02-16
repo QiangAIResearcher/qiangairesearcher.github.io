@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey I'm Qiang, welcome to my home!
+Hey I'm Qiang, welcome to my homepage!
 
 I'm a PhD student in machine learning and natural languag processing under supervision of [Prof. Emine Yilmaz](https://sites.google.com/site/researchyilmaz/). I'm now affiliated with the [Web Intelligence Group](http://wi.cs.ucl.ac.uk/), the [Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/), [Univeristy College London](https://www.ucl.ac.uk/).
 
