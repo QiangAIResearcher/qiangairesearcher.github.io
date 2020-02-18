@@ -10,7 +10,7 @@ redirect_from:
 
 Hey I'm Qiang, welcome to my homepage!
 
-I'm a PhD student in machine learning and natural languag processing under supervision of [Prof. Emine Yilmaz](https://sites.google.com/site/researchyilmaz/). I'm now affiliated with the [Web Intelligence Group](http://wi.cs.ucl.ac.uk/), the [Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/), [Univeristy College London](https://www.ucl.ac.uk/).
+I'm a PhD student in machine learning and natural language processing under supervision of [Prof. Emine Yilmaz](https://sites.google.com/site/researchyilmaz/). I'm now affiliated with the [Web Intelligence Group](http://wi.cs.ucl.ac.uk/), the [Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/), [Univeristy College London](https://www.ucl.ac.uk/).
 
 My research interests lie in the areas of statistical machine learning and deep learning with applications to natuarl language. I also have interest in multimodal data fusion and integration. Curretly I'm focusing on machine learning methods for automatic verification of textual facts on the web.
 
