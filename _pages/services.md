@@ -11,7 +11,7 @@ author_profile: true
 2. *WWW* - 2020
 3. *NeurIPS* - 2019
 4. *SIGIR* - 2019
-5. *WSDM* - 2018
+5. *KDD* - 2019
 
 ## Member of Journal Review Committee
 1. Information Retrieval Journal
