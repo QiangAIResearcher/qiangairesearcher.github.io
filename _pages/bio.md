@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-I am a PhD student under supervision of [Prof. Emine Yilmaz](https://sites.google.com/site/researchyilmaz/). My research interests lie in the areas of statistical machine learning and deep learning with applications to natual languages.
+I am a PhD student under supervision of [Prof. Emine Yilmaz](https://sites.google.com/site/researchyilmaz/). My research interests lie in the areas of statistical machine learning and deep learning with applications to natual languages and asynchronous sequential data.
+
 
 Education
 ======
