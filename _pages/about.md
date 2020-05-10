@@ -16,8 +16,8 @@ My research interests lie in the areas of machine learning, and spans the entire
 
 
 ## Latest News
-* 15.03.2020 - Inviterd to serve as the reviewer of EMNLP 2020.
-* 22.12.2019 - Invited to serve as the reviwer of ACL 2020.
+* 15.03.2020 - Invited to serve as the reviewer of EMNLP 2020.
+* 22.12.2019 - Invited to serve as the reviewer of ACL 2020.
 * 03.11.2019 - Received the NeurIPS 2019 Best Reviewer Award by prof. Emine Yilamz.
 * 20.09.2019 - Finished the 14-week summer internship in Amazon.
 * 24.06.2019 - Invited to attend the Google NLP summit in Zurich, Switzerland.
