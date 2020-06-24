@@ -17,5 +17,5 @@ author_profile: true
 1. Information Retrieval Journal
 
 
-## Workshop
-1. WSDM 2020 workshop on State User Modeling
+## Organization
+1. General Secretary of the Alumni Association of Shandong University at the United Kingdom
