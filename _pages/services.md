@@ -16,6 +16,7 @@ author_profile: true
 
 ## Member of Journal Review Committee
 1. Information Retrieval Journal
+2. World Wide Web Journal
 
 
 ## Organization
