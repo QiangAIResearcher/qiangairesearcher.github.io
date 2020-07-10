@@ -16,7 +16,7 @@ My research interests lie in the areas of machine learning, and spans the entire
 
 
 ## Latest News
-* 07.06.2020 - Release [Beta-recsys](https://github.com/beta-team/beta-recsys), an open souce benchmark for neural recommendation systems. Tutorial is [here](https://beta-recsys.readthedocs.io/en/latest/notes/dataset_tutorial.html).
+* 07.06.2020 - Release [Beta-RecSys](https://github.com/beta-team/beta-recsys), an open souce benchmark for neural recommendation systems. Tutorial is [here](https://beta-recsys.readthedocs.io/en/latest/notes/dataset_tutorial.html).
 * 01.06.2020 - One first-author research paper accepted by ICML 2020.
 * 15.03.2020 - Invited to serve as the reviewer of EMNLP 2020.
 * 22.12.2019 - Invited to serve as the reviewer of ACL 2020.
