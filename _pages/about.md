@@ -16,7 +16,7 @@ My research interests lie in the area of machine learning and span the entire th
 
 
 ## Latest News
-* 15.01.2021 - One first co-author research paper accepted by WWW 2021.
+* 15.01.2021 - One first-author research paper accepted by WWW 2021.
 * 26.09.2020 - One first co-author research paper accepted by NeurIPS 2020.
 * 30.07.2020 - Invited to give a talk on Self-Attentive Hawkes Processes at Yahoo Research, Verizon Media.
 * 07.06.2020 - Release [Beta-RecSys](https://github.com/beta-team/beta-recsys), an open souce benchmark for neural recommendation systems. Tutorial is [here](https://beta-recsys.readthedocs.io/en/latest/index.html).
