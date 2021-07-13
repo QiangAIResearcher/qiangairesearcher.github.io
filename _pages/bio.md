@@ -14,7 +14,7 @@ I am a postdoctoral research fellow working with [Prof. Emine Yilmaz](https://si
 
 Education
 ======
-* Ph.D in Computer Science, University College London, 2020 (expected)
+* Ph.D in Computer Science, University College London, 2021
 * M.S. in Electrical Engineering, Chinese Academy of Sciences, 2017
 * B.S. in Internet of Things, Shandong University, 2014
 
