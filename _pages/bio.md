@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am a PhD student under the supervision of [Prof. Emine Yilmaz](https://sites.google.com/site/researchyilmaz/). I'm enthusiastic to understand the frontier challenges in machine learning, distill these challenges into mathematically sound formulations, and develop fully-functioning methods to tackle them. My research interests lie in the areas of statistical machine learning and deep learning with applications to natual languages and asynchronous sequential data.
+I am a postdoctoral research fellow working with [Prof. Emine Yilmaz](https://sites.google.com/site/researchyilmaz/). I'm enthusiastic to understand the frontier challenges in machine learning, distill these challenges into mathematically sound formulations, and develop fully-functioning methods to tackle them. My research interests lie in the areas of statistical machine learning and deep learning with applications to natual languages and asynchronous sequential data.
 
 
 Education
