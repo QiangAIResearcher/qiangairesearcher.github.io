@@ -10,7 +10,7 @@ redirect_from:
 
 Hey I'm Qiang, welcome to my homepage!
 
-I'm a PhD student in machine learning under the supervision of [Prof. Emine Yilmaz](https://sites.google.com/site/researchyilmaz/). I'm now affiliated with the [Web Intelligence Group](http://wi.cs.ucl.ac.uk/), the [Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/), [University College London](https://www.ucl.ac.uk/).
+I'm a postdocral research fellow in machine learning working with [Prof. Emine Yilmaz](https://sites.google.com/site/researchyilmaz/). I'm now affiliated with the [Web Intelligence Group](http://wi.cs.ucl.ac.uk/), the [Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/), [University College London](https://www.ucl.ac.uk/).
 
 My research interests lie in the area of machine learning and span the entire theory-to-application spectrum from fundamental advances (e.g., Bayesian learning and causality analysis) to practical progress (e.g., text mining, sequential data modeling). My research has been applied to text classification, information retrieval, recommender systems, and misinformation detection.
 
