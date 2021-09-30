@@ -18,7 +18,7 @@ I have wide connections with academic and industrial collaborators. I received g
 
 My research interests lie in the area of machine learning and span the entire theory-to-application spectrum from fundamental advances (e.g., Bayesian inference and meta learning) to practical progress (e.g., text mining, sequential data modeling). My research has been applied to text classification, knowledge graphs, information retrieval, recommender systems, and misinformation detection. Recently, I am mainly focusing on AI applications to scientific discovery.
 
-I am looking for undergraduate/graduate student interns, postdocs and research engineers. Please drop me an email if you are interested in working with me.
+I am looking for undergraduate/graduate students, interns, postdocs and research engineers. Please drop me an email if you are interested in working with me.
 
 
 ## Latest News
