@@ -10,9 +10,15 @@ redirect_from:
 
 Hey I'm Qiang, welcome to my homepage!
 
-I'm a Principal Investigator under the Hundred Talents Program at Zhejiang University. Before joining Zhejiang University, I was a postdoctoral research fellow in machine learning working with [Prof. Emine Yilmaz](https://sites.google.com/site/researchyilmaz/), affiliated with the [Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/) in [University College London (UCL)](https://www.ucl.ac.uk/). I studied for the Ph.D. in UCL as well. I have been closely collaborating with the [Institute for Medical Engineering & Science](https://imes.mit.edu/), MIT.
+I'm a Principal Investigator under the Hundred Talents Program at Zhejiang University. 
+
+Before joining Zhejiang University, I was a postdoctoral research fellow in machine learning working with [Prof. Emine Yilmaz](https://sites.google.com/site/researchyilmaz/), affiliated with the [Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/) in [University College London (UCL)](https://www.ucl.ac.uk/). I studied for the Ph.D. in UCL as well. Prior to that, I obtained M.Sc. from Chinese Academy of Sciences and B.Sc. from Shandong Univeristy.
+
+I have wide connections with academic and industrial collaborators. I received grants from Google, Nvidia and Microsoft Research, and had internships in Amazon and Facebook AI Research. I have been closely collaborating with the [Institute for Medical Engineering & Science](https://imes.mit.edu/), MIT.
 
 My research interests lie in the area of machine learning and span the entire theory-to-application spectrum from fundamental advances (e.g., Bayesian inference and meta learning) to practical progress (e.g., text mining, sequential data modeling). My research has been applied to text classification, knowledge graphs, information retrieval, recommender systems, and misinformation detection. Recently, I am mainly focusing on AI applications to scientific discovery.
+
+I am looking for undergraduate/graduate student interns, postdocs and research engineers. Please drop me an email if you are interested in working with me.
 
 
 ## Latest News
