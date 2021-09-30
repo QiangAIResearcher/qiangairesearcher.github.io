@@ -12,7 +12,7 @@ Hey I'm Qiang, welcome to my homepage!
 
 I'm a Principal Investigator under the Hundred Talents Program at Zhejiang University. 
 
-Before joining Zhejiang University, I was a postdoctoral research fellow in machine learning working with [Prof. Emine Yilmaz](https://sites.google.com/site/researchyilmaz/), affiliated with the [Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/) in [University College London (UCL)](https://www.ucl.ac.uk/). I studied for the Ph.D. in UCL as well. Prior to that, I obtained M.Sc. from Chinese Academy of Sciences and B.Sc. from Shandong Univeristy.
+Before joining Zhejiang University, I was a postdoctoral research fellow in machine learning working with [Prof. Emine Yilmaz](https://sites.google.com/site/researchyilmaz/), affiliated with the [Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/) in [University College London (UCL)](https://www.ucl.ac.uk/). I studied for the Ph.D. in UCL as well. Prior to that, I obtained M.Sc. from Chinese Academy of Sciences and B.Sc. from Shandong University.
 
 I have wide connections with academic and industrial collaborators. I received grants from Google, Nvidia and Microsoft Research, and had internships in Amazon and Facebook AI Research. I have been closely collaborating with the [Institute for Medical Engineering & Science](https://imes.mit.edu/) in MIT and [Mila](https://mila.quebec/en/) in Montreal.
 
