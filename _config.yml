@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Qiang Zhang's Homepage"
 title_separator          : "-"
 name                     : &name "Qiang Zhang"
-description              : &description "AI Researcher & PhD Student in UCL"
+description              : &description "AI Researcher & Principal Investigator in Zhejiang University"
 url                      : https://qiangairesearcher.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qiangairesearcher.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Qiang Zhang"
   avatar           : "me.jpeg"
-  bio              : "AI Researcher & PhD Student in University College London"
-  location         : "London, United Kingdom"
+  bio              : "AI Researcher & Principal Investigator in Zhejiang University"
+  location         : "Hangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=ZKuRZaEAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : "qiang.zhang.16@ucl.ac.uk"
+  email            : "qiang.zhang.cs@zju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
