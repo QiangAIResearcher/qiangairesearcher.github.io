@@ -22,6 +22,7 @@ I am looking for undergraduate/graduate students, interns, postdocs and research
 
 
 ## Latest News
+* 03.12.2021 - Three research papers accepted by AAAI 2022.
 * 29.09.2021 - Two research papers accepted by NeurIPS 2021.
 * 15.01.2021 - One first-author research paper accepted by WWW 2021.
 * 26.09.2020 - One first co-author research paper accepted by NeurIPS 2020.
